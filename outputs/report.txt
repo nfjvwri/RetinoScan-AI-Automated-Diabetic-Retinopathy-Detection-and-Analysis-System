@@ -1,0 +1,85 @@
+
+=================================================
+DIABETIC RETINOPATHY ANALYSIS REPORT
+=================================================
+
+Patient Name : AB
+Patient Age  : 23
+Patient ID   : 1
+
+Scan Date :
+2026-05-21 12:28:11.487889
+
+=================================================
+IMAGE PROCESSING PIPELINE
+=================================================
+
+1. Image Acquisition
+2. Preprocessing
+3. Filtering
+4. Segmentation
+5. Feature Extraction
+6. Classification
+7. Probability Mapping
+8. Report Generation
+
+=================================================
+TECHNIQUES USED
+=================================================
+
+Preprocessing :
+Grayscale Conversion
+
+Enhancement :
+CLAHE Enhancement
+
+Filtering :
+Gaussian Blur Filtering
+
+Segmentation :
+Binary Thresholding Segmentation
+
+Feature Extraction :
+Contour Detection
+Blood Vessel Extraction
+Lesion Detection
+
+Classification :
+Rule-Based DR Classification
+
+=================================================
+EXTRACTED FEATURES
+=================================================
+
+Lesion Count :
+10
+
+Bright Lesion Count :
+63830
+
+Vessel Density :
+0.3489
+
+Overall DR Probability :
+42.20%
+
+=================================================
+CLASSIFICATION RESULT
+=================================================
+
+Predicted Stage :
+Severe Diabetic Retinopathy
+
+=================================================
+SYSTEM OBSERVATION
+=================================================
+
+Highlighted retinal regions indicate probable
+abnormal lesion areas.
+
+Probability percentages are estimated based on
+lesion region intensity and area.
+
+Further ophthalmologist evaluation is recommended.
+
+=================================================
